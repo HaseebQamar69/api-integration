@@ -19,7 +19,7 @@ function Practice() {
 
   return (
     <>
-      <section className="border border-red-700">
+      <section className=" py-2">
         <div className="min-h-screen bg-gray-100 p-5">
           <h1 className="text-4xl font-bold text-center mb-10 text-gray-800">
             Featured Jewelry
